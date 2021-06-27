@@ -1,7 +1,7 @@
 import string
 # hyphen separated words split
 # fullstops? commas? dashes?
-# apostrophes lmaooooo
+# apostrophes?????
 
 def return_str_tup(input_str):
   input_str = input_str.translate(str.maketrans('', '', string.punctuation))
@@ -62,7 +62,7 @@ with open("./temp.txt",'r') as fl:
 all_nodes = set(all_nodes)
 
 print("digraph G{")
-print("\t" + "size=\"{}{}\"".format(size[0],size[1]))
+# print("\t" + "size=\"{}{}\"".format(size[0],size[1]))
 print("\t" + "rankdir=\"LR\"")
 
 for k in dict_states.keys():
@@ -70,7 +70,7 @@ for k in dict_states.keys():
       finl1 = finl.split('^')
       # print(finl1)
       # print(k)
-      G.add_weighted_edges_from([(k,finl1[-1],finl1[0])])
+      # G.add_weighted_edges_from([(k,finl1[-1],finl1[0])])
       start_node_label = k
       end_node_label = finl1[-1]
       label = finl1[0]
