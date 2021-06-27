@@ -18,5 +18,5 @@ Examples:
 
 First 3 couplets from [Land](https://www.poetryfoundation.org/poetrymagazine/poems/41227/land) by Agha Shahid Ali
 
-![graphviz (3)](https://user-images.githubusercontent.com/47458458/123553895-3c823100-d79b-11eb-88d5-c9907ea35cab.png)
+![graphviz (4)](https://user-images.githubusercontent.com/47458458/123553961-80753600-d79b-11eb-9f1d-2b2639b7473e.png)
 
