@@ -1,12 +1,8 @@
-## poem-to-FSM: How does one characterize the flow of poetry? 
+ ## poem-to-FSM: How does one characterize the flow of poetry? [Experiments ongoing]
 
 I try to examine that by representing a poem like a state machine, where the transitions are 'breaks' - the end of a word, line, or stanza; and the states are words. 
 
-
-
-
-
-My script basically 'generates' dot code which I recommend copy-pasting to [this](https://dreampuf.github.io/GraphvizOnline/#digraph%20G%20%7B%0A%0A%7D) site which enables you to visualize DOT code online. Please share any interesting results with me! :)
+The poemFSM.py script basically 'generates' dot code which I recommend copy-pasting to [this](https://dreampuf.github.io/GraphvizOnline/#digraph%20G%20%7B%0A%0A%7D) site which enables you to visualize DOT code online. Please share any interesting results with me! :)
 
 Examples:
 
