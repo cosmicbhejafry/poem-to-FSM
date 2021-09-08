@@ -6,4 +6,4 @@
    For example: [a URL which will work well](https://www.poetryfoundation.org/poems/57325/sonnet-in-search-of-an-author), 
                 [a URL which won't work at all](https://www.poetryfoundation.org/poetrymagazine/browse?contentId=29944)  
 
-3. If a node is highlighted- tap the 'v' key to hear the word represented by the node.
+3. If a node is highlighted- tap the 'v' key to hear the word represented by the node. You can drag the nodes around by pressing on the left mouse button.
