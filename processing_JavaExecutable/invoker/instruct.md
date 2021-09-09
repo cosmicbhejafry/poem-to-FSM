@@ -1,3 +1,5 @@
+You can now download am unstable java executable UI for Windows: [here for 64-bit](https://github.com/cosmicbhejafry/poem-to-FSM/tree/main/processing_JavaExecutable/invoker/application.windows64) or [here for 32-bit](https://github.com/cosmicbhejafry/poem-to-FSM/tree/main/processing_JavaExecutable/invoker/application.windows32).
+
 ## Read before using the executable:
 
 1. Make sure the URL you input is a **Poetry Foundation** URL. 
